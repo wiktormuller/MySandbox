@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NStorage.Api", "NStorage.Api\NStorage.Api.csproj", "{E60DF8DD-DB2C-49FE-BC86-503D923E0471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NStorage", "NStorage\NStorage.csproj", "{93EE7FAE-6991-44FE-A1A0-A0A2B0782F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NStorage.InMemory", "NStorage.InMemory\NStorage.InMemory.csproj", "{4037265E-E956-4656-A1FD-EF1EF181F01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NStorage.Mongo", "NStorage.Mongo\NStorage.Mongo.csproj", "{61BC3B96-D76F-438D-83F6-6E7AFDE2315B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NStorage.Redis", "NStorage.Redis\NStorage.Redis.csproj", "{2704808C-CDFC-4B7C-9F94-C40730ECB9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60DF8DD-DB2C-49FE-BC86-503D923E0471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60DF8DD-DB2C-49FE-BC86-503D923E0471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60DF8DD-DB2C-49FE-BC86-503D923E0471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60DF8DD-DB2C-49FE-BC86-503D923E0471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EE7FAE-6991-44FE-A1A0-A0A2B0782F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EE7FAE-6991-44FE-A1A0-A0A2B0782F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EE7FAE-6991-44FE-A1A0-A0A2B0782F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EE7FAE-6991-44FE-A1A0-A0A2B0782F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4037265E-E956-4656-A1FD-EF1EF181F01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4037265E-E956-4656-A1FD-EF1EF181F01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4037265E-E956-4656-A1FD-EF1EF181F01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4037265E-E956-4656-A1FD-EF1EF181F01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BC3B96-D76F-438D-83F6-6E7AFDE2315B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BC3B96-D76F-438D-83F6-6E7AFDE2315B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BC3B96-D76F-438D-83F6-6E7AFDE2315B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BC3B96-D76F-438D-83F6-6E7AFDE2315B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2704808C-CDFC-4B7C-9F94-C40730ECB9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2704808C-CDFC-4B7C-9F94-C40730ECB9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2704808C-CDFC-4B7C-9F94-C40730ECB9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2704808C-CDFC-4B7C-9F94-C40730ECB9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

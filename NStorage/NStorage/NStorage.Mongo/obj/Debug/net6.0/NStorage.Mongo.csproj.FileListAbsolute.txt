@@ -1,0 +1,15 @@
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\bin\Debug\net6.0\NStorage.Mongo.deps.json
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\bin\Debug\net6.0\NStorage.Mongo.dll
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\bin\Debug\net6.0\NStorage.Mongo.pdb
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\bin\Debug\net6.0\NStorage.dll
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\bin\Debug\net6.0\NStorage.pdb
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.csproj.AssemblyReference.cache
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.AssemblyInfoInputs.cache
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.AssemblyInfo.cs
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.csproj.CopyComplete
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.dll
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\refint\NStorage.Mongo.dll
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\NStorage.Mongo.pdb
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage.Mongo\obj\Debug\net6.0\ref\NStorage.Mongo.dll

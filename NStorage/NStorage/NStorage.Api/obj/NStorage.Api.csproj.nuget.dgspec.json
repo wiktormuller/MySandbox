@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Api\\NStorage.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Api\\NStorage.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Api\\NStorage.Api.csproj",
+        "projectName": "NStorage.Api",
+        "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Api\\NStorage.Api.csproj",
+        "packagesPath": "C:\\Users\\bizne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.InMemory\\NStorage.InMemory.csproj": {
+                "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.InMemory\\NStorage.InMemory.csproj"
+              },
+              "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Mongo\\NStorage.Mongo.csproj": {
+                "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Mongo\\NStorage.Mongo.csproj"
+              },
+              "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Redis\\NStorage.Redis.csproj": {
+                "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Redis\\NStorage.Redis.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.InMemory\\NStorage.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.InMemory\\NStorage.InMemory.csproj",
+        "projectName": "NStorage.InMemory",
+        "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.InMemory\\NStorage.InMemory.csproj",
+        "packagesPath": "C:\\Users\\bizne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.InMemory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj": {
+                "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Mongo\\NStorage.Mongo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Mongo\\NStorage.Mongo.csproj",
+        "projectName": "NStorage.Mongo",
+        "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Mongo\\NStorage.Mongo.csproj",
+        "packagesPath": "C:\\Users\\bizne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Mongo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj": {
+                "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Redis\\NStorage.Redis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Redis\\NStorage.Redis.csproj",
+        "projectName": "NStorage.Redis",
+        "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Redis\\NStorage.Redis.csproj",
+        "packagesPath": "C:\\Users\\bizne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage.Redis\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj": {
+                "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.86, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj",
+        "projectName": "NStorage",
+        "projectPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\NStorage.csproj",
+        "packagesPath": "C:\\Users\\bizne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizne\\Desktop\\MySandbox\\NStorage\\NStorage\\NStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

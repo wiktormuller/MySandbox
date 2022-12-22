@@ -1,0 +1,12 @@
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\bin\Debug\net6.0\NStorage.deps.json
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\bin\Debug\net6.0\NStorage.dll
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\bin\Debug\net6.0\NStorage.pdb
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\NStorage.csproj.AssemblyReference.cache
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\NStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\NStorage.AssemblyInfoInputs.cache
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\NStorage.AssemblyInfo.cs
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\NStorage.csproj.CoreCompileInputs.cache
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\NStorage.dll
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\refint\NStorage.dll
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\NStorage.pdb
+C:\Users\bizne\Desktop\MySandbox\NStorage\NStorage\NStorage\obj\Debug\net6.0\ref\NStorage.dll
