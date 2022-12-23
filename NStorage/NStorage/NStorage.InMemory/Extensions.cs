@@ -6,6 +6,11 @@ public static class Extensions
 {
     public static IStorageConfigurator AddInMemoryStorage(this IStorageConfigurator configurator)
     {
-        return configurator.Register<InMemoryStorage>();
+        if (configurator.Type is "inMemory")
+        {
+            return configurator.Register<InMemoryStorage>();
+        }
+
+        return configurator;
     }
 }
