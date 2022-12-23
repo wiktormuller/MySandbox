@@ -11,5 +11,16 @@
       <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
       <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="7.0.0" />
     </ItemGroup>
+    
+    <PropertyGroup>
+        <Title>NStorage</Title>
+        <Description>NStorage - lorem impsum</Description>
+        <Authors>Some author</Authors>
+        <TargetFramework>net6.0</TargetFramework>
+        <LangVersion>Latest</LangVersion>
+        <PackageId>NStorage</PackageId>
+        <PackageTags>NStorage, MongoStorage, RedisStorage</PackageTags>
+        <Version>1.0.0</Version>
+    </PropertyGroup>
 
 </Project>
