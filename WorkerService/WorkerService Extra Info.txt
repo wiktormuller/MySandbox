@@ -1,0 +1,13 @@
+Deamon on Linux == Background Service on Windows
+
+We can run Background Service on Windows as a Windows Service
+
+1. Publish on project.
+2. Register Windows Service via PowerShell:
+	Service Controller Management Tool: sc.exe create WorkerService binpath= c:\temp\workerservice\WorkerService.exe start= auto
+
+	Run service manually.
+
+3. Uninstall Service:
+	Shut down the service.
+	sc.exe delete WorkerService
