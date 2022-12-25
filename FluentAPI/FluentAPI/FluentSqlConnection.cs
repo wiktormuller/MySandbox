@@ -58,6 +58,8 @@ public class ConnectionConfiguration
 }
 
 // It's a way to introduce layered (dependent) calls of fluent API
+// If you use for example the 'ForServer' method then after the result you can use method for the database, because
+// The ForServer method returns the contract for database methods.
 public interface IServerSelectionStage
 {
     public IDatabaseSelectionStage ForServer(string server);
