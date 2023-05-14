@@ -7,12 +7,13 @@ namespace SignalRBasics.Hubs
         public static int TotalViews { get; set; } = 0;
         public static int TotalUsers { get; set; } = 0;
 
-        public async Task NewWindowLoaded()
+        public async Task<string> NewWindowLoaded(string input)
         {
             TotalViews++;
 
             // Send update to all clients that total views have been updated
             await Clients.All.SendAsync("updateTotalViews", TotalViews);
+            return $"total views: {TotalViews}; input data: {input}";
         }
 
         public override Task OnConnectedAsync()
